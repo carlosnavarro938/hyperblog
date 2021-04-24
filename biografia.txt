@@ -1,4 +1,4 @@
-Descripción de los comandos básicos de Git.
+Descripción de los comandos y procedimientos básicos de Git.
 
 Esta es una linea que agregué para probar los cambios.
 
@@ -13,7 +13,7 @@ git add . - agrega todos los archivos que están en la carpeta del repositorio, i
 
 git commit -m "Comentarios de la nueva versión" Luego de agregar cambios al repositorio se agregan con este comando
 
-git status - muestra datos como los cambios que se han realizado.
+git status - muestra el estado actual de la sincronización de los archivos del respositorio con respecto al servidor. 
 
 git log nombreDelArchivo.txt -> muestra el historial de todos los cambios en el archivo indicado.
 
