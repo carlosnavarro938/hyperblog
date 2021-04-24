@@ -1,6 +1,4 @@
-Mi nombre es Freddy Vega.
-
-Soy el CTO de Platzi y en mis tiempos libres juego tennis, escribo libros y hago cosas raras con Raspebrry Pis
+Descripción de los comandos básicos de Git.
 
 Esta es una linea que agregué para probar los cambios.
 
@@ -11,6 +9,10 @@ git add nombreDelArchivoAAgregar.txt agrega el archivo que está en la carpeta de
 Luego de hacer cambios, podemos hace lo siguiente
 git add . - agrega todos los archivos que están en la carpeta del repositorio, incluídas las carpetas
 git commit -m "Comentarios de la nueva versión" Luego de agregar cambios al repositorio se agregan con este comando
+
+git status - muestra datos como los cambios que se han realizado.
+
+git log nombreDelArchivo.txt -> muestra el historial de todos los cambios en el archivo indicado.
 
 
 
