@@ -1,21 +1,23 @@
-Descripción de los comandos y procedimientos básicos de Git.
+ï»¿DescripciÃ³n de los comandos y procedimientos bÃ¡sicos de Git.
 
-Esta es una linea que agregué para probar los cambios.
+Esta es una linea que agreguÃ© para probar los cambios.
 
 
 git init Posicionarse en la carpeta en la que se desea crear el repositorio y ejecutar el comando. 
-git add nombreDelArchivoAAgregar.txt agrega el archivo que está en la carpeta del repsitorio o subcarpeta al respositorio
+git add nombreDelArchivoAAgregar.txt agrega el archivo que estÃ¡ en la carpeta del repositorio o subcarpeta al resositorio
 
 
 Luego de hacer cambios, podemos hace lo siguiente
 
-git add . - agrega todos los archivos que están en la carpeta del repositorio, incluídas las carpetas
+git add . - agrega todos los archivos que estÃ¡n en la carpeta del repositorio, incluÃ­das las carpetas
 
-git commit -m "Comentarios de la nueva versión" Luego de agregar cambios al repositorio se agregan con este comando
+git commit -m "Comentarios de la nueva versiÃ³n" Luego de agregar cambios al repositorio se agregan con este comando
 
-git status - muestra el estado actual de la sincronización de los archivos del respositorio con respecto al servidor. 
+git status - muestra el estado actual de la sincronizaciÃ³n de los archivos del respositorio con respecto al servidor. 
 
 git log nombreDelArchivo.txt -> muestra el historial de todos los cambios en el archivo indicado.
+
+Esto es todo.
 
 
 
